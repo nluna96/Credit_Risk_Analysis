@@ -3,8 +3,8 @@
 The purpose of this analysis is to analyze how well six different machine learning models predict credit card risk. The six different machine learning models are RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier.
 
 ## Results
-Precision (Proportion of positive identifications was actually correct)
-Recall (Proportion of actual positives was identified correctly)
+- Precision (Proportion of positive identifications was actually correct)
+- Recall (Proportion of actual positives was identified correctly)
 
 ### RandomOverSampler
 ![RandomOverSampler](./images/RandomOverSampler.png)
