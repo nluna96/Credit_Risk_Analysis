@@ -69,8 +69,8 @@ The purpose of this analysis is to analyze how well six different machine learni
 ### EasyEnsembleClassifier
 ![EasyEnsembleClassifier](./images/EasyEnsembleClassifier.png)
 ##### high_risk
-- high_risk performace is very low f1 (0.16)
-- high_risk precision is very low (0.09)
+- high_risk performace is higher than the other models f1 (0.16)
+- high_risk precision is higher than the other models (0.09)
 - high_risk recall is good (0.92)
 
 ##### low_risk
