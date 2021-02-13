@@ -5,6 +5,7 @@ The purpose of this analysis is to analyze how well six different machine learni
 ## Results
 - Precision (Proportion of positive identifications was actually correct)
 - Recall (Proportion of actual positives was identified correctly)
+https://towardsdatascience.com/how-to-evaluate-your-machine-learning-models-with-python-code-5f8d2d8d945b
 
 ### RandomOverSampler
 ![RandomOverSampler](./images/RandomOverSampler.png)
