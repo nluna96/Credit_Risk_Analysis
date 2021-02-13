@@ -80,3 +80,4 @@ The purpose of this analysis is to analyze how well six different machine learni
 
 ## Summary
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+The model that performed the worst is ClusterCentroid and the model that performed the best is the EasyEnsembleClassifier. ClusterCentroid performed the worst due to the lower high_risk (0.01) and low_risk (0.59) f1 scores. While EasyEnsembleClassifier performed the best due to the highest high_risk (0.16) and low_risk (0.97) f1 scores. Despite not having prefect scores my recommendation would be to use the EasyEnsembleClassifier Machine learning model to predict credit card risk.
